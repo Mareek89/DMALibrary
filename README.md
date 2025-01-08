@@ -17,6 +17,6 @@ The DMALib contains ->
 - get process 
 - kmbox 
 
-and many more ...
+and much more ...
 
 Feel free to use, modify, and distribute it in your projects.
