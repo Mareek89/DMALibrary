@@ -1,6 +1,6 @@
 # DMALibrary
 
-Simple but extensive library for DMA users. 
+Simple but extensive DMALibrary for DMA users, used by blurred in their p2c. 
 
 The DMALib contains ->
 
